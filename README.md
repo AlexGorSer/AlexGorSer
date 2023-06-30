@@ -1,4 +1,3 @@
-
 Languages and Tools:
 
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) 
@@ -24,3 +23,8 @@ Languages and Tools:
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) 
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) 
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) 
+
+Statistics: 
+
+![](https://github.com/AlexGorSer/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/AlexGorSer/github-stats/blob/master/generated/overview.svg)
